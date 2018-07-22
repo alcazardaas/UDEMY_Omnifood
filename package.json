@@ -1,0 +1,19 @@
+{
+  "name": "omnifood",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://stackoverflow.com/questions/10116373/git-push-error-repository-not-found",
+    "start": "http-server ./src -s -o"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
