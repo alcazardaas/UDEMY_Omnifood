@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server ./src -s -o"
   },
   "repository": {
     "type": "git",
-    "url": "https://stackoverflow.com/questions/10116373/git-push-error-repository-not-found",
-    "start": "http-server ./src -s -o"
+    "url": "https://stackoverflow.com/questions/10116373/git-push-error-repository-not-found"
   },
   "author": "",
   "license": "ISC",
